@@ -184,7 +184,7 @@ Defined in `libs/Buildings.py`. Responsibilities:
 
 ## License
 
-This project does not have a specific license by default. Please add a license file if you intend to make it open source.
+This project does not have a specific license.
 
 ---
 
